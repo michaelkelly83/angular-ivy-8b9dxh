@@ -1,3 +1,3 @@
-# angular-ivy-8b9dxh
+# my-first-angular-project
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-8b9dxh)
